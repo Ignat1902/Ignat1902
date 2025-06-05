@@ -19,7 +19,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 ## 📩 Контакты
-[![Gmail](https://img.shields.io/badge/soczkov.2013@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](soczkov.2013@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](t.me/polarnyyy)
+[![Gmail](https://img.shields.io/badge/soczkov.2013@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:soczkov.2013@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polarnyyy)
 [![HeadHunter](https://img.shields.io/badge/HH-D21217?style=for-the-badge&logo=hh.ru&logoColor=white)](https://hh.ru/resume/62a16493ff0cc620f60039ed1f5243724a6b49)
     
