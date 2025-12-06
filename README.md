@@ -22,13 +22,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Проекты
 
-[![Housing services](https://github-readme-stats.vercel.app/api/pin/?username=Ignat1902&repo=housing-services)](https://github.com/Ignat1902/housing-services)
-[![News app](https://github-readme-stats.vercel.app/api/pin/?username=Ignat1902&repo=news-app)](https://github.com/Ignat1902/news-app)
-[![Play Tube](https://github-readme-stats.vercel.app/api/pin/?username=Ignat1902&repo=play-tube)](https://github.com/Ignat1902/play-tube)
-[![Sonic Flow](https://github-readme-stats.vercel.app/api/pin/?username=Ignat1902&repo=sonic-flow)](https://github.com/Ignat1902/sonic-flow)
+[![Housing services](https://img.shields.io/badge/Housing%20services-white?style=flat-square&logoColor=black)](https://github.com/Ignat1902/housing-services)  
+[![News app](https://img.shields.io/badge/News%20app-white?style=flat-square&logoColor=black)](https://github.com/Ignat1902/news-app)  
+[![Play Tube](https://img.shields.io/badge/Play%20Tube-white?style=flat-square&logoColor=FF0000)](https://github.com/Ignat1902/play-tube)  
+[![Sonic Flow](https://img.shields.io/badge/Sonic%20Flow-white?style=flat-square&logoColor=1DB954)](https://github.com/Ignat1902/sonic-flow)  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" /> Контакты
 [![Gmail](https://img.shields.io/badge/soczkov.2013@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:soczkov.2013@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polarnyyy)
 [![HeadHunter](https://img.shields.io/badge/HH-D21217?style=for-the-badge&logo=hh.ru&logoColor=white)](https://hh.ru/resume/62a16493ff0cc620f60039ed1f5243724a6b49)
     
+
