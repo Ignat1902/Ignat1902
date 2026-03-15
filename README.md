@@ -1,12 +1,5 @@
 ﻿## Привет! <img src="gif/hand_waving.gif" width="24" height="24">
 
-#### Меня зовут Игнат и мне нравится создавать мобильные приложения под Android.
-Я прокачиваю свои профессиональные и личностные качества, чтобы стать сильным разработчиком. 
-
-## <img src="gif/edu.gif" width="24" height="24"> Образование
-- Московский технический университет связи и информатики (МТУСИ), Бакалавриат, Информатика и вычислительная техника,  2023
-- НИТУ МИСИС, Магистратура, Обработка естественного языка, 2026
-
 ## <img src="gif/rocket.gif" width="24" height="24"> Стэк технологий
 [![Android](https://img.shields.io/badge/AndroidSDK-white?style=flat-square&logo=android&logoColor=3DDC84)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
